@@ -1,4 +1,3 @@
-
 # JSON-Data-Wrangling
 Mini-project #1 from Springboard Data Science program: practice importing, normalization, and converting to dataframes with JSON files.
 
