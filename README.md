@@ -7,9 +7,9 @@ API Project
 
 Inferential Statistics
 
-  Human Body Temperature
+    Human Body Temperature
   
 
 Machine_learning
 
-  Linear regression
+    Linear regression
