@@ -1,9 +1,11 @@
 # Miniprojects
-SQL Project
+Data Wrangling
 
-JSON Project
+    SQL Project
 
-API Project
+    JSON Project
+
+    API Project
 
 Inferential Statistics
 
