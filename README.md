@@ -15,3 +15,6 @@ Inferential Statistics
 Machine_learning
 
     Linear regression
+    Logistic regression
+    Naive Bayes
+    Clustering
