@@ -10,6 +10,8 @@ Data Wrangling
 Inferential Statistics
 
     Human Body Temperature
+    Hospital readmission
+    Racial discrimination
   
 
 Machine_learning
